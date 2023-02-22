@@ -139,7 +139,7 @@ class _PixelPerfectState extends State<PixelPerfect> {
                           decoration: isDraggable
                               ? BoxDecoration(
                                   border: Border.all(
-                                    color: Theme.of(context).accentColor,
+                                    color: Colors.greenAccent,
                                   ),
                                 )
                               : null,
